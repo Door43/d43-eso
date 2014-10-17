@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eso:home|Door43 (eso)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eso|d43-eso repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eso/archive/master.zip|d43-eso.zip]]
+
+**Recent Changes**
+{{changes>ns = eso}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eso|Ethnologue data]]
+
